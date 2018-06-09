@@ -1,9 +1,9 @@
 # CS-230-Project
 
 
-CS230 Final Project 
-//Ellen Roper and Tristan Gosakti 
-//Stanford University
+CS230 Final Project  
+Ellen Roper and Tristan Gosakti  
+Stanford University 
 
 Motion capture technology is becoming increasingly prevalent in today’s society, offering a myriad of applications. As a result, TuringSense, a Santa Clara-based tech wearable company, created a product which uses motion capture to train athletes. Standard motion capture is often optical in nature, but TuringSense replaces this approach with digital technology, opting to use their own motion sensors instead. Currently, TuringSense uses mathematical models from the motion sensors’ data to classify tennis strokes. This project details the implementation of a single layer neural network, a deep neural network, and a convolutional neural network to classify 5 different tennis stroke types with final test set accuracies of 0.96, 0.97 and 0.98 respectively.
 
